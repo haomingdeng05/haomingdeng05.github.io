@@ -1,1 +1,1 @@
-### This is the code for Haoming's website
+### Welcome to Haoming's Github
